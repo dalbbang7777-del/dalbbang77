@@ -1,10 +1,10 @@
-import Hero from "@/components/Hero";
+import Hero from "@/app/components/Hero";
 
 export default function Home() {
   return (
     <>
       <Hero />
-      
+
       {/* 
           앞으로 추가될 수 있는 기능들 예시:
           1. 커리큘럼 소개 섹션
@@ -41,7 +41,7 @@ export default function Home() {
               <h3 className="text-xl font-semibold mb-3">풍부한 리소스</h3>
               <p className="text-gray-500">다양한 동영상, 퀴즈, 실습 자료를 통해 학습을 보조합니다.</p>
             </div>
-            
+
             {/* 여기에 새로운 기능 카드를 추가하세요 */}
           </div>
         </div>
