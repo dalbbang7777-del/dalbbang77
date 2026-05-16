@@ -16,7 +16,7 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">주요 기능</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">주요 기능11</h2>
             <p className="text-gray-600">이곳에 교육 서비스의 핵심 가치를 나열해 보세요.</p>
           </div>
 
