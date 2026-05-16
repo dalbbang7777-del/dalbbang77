@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 text-center">
         {/* 메인 환영 문구 */}
         <h1 className="text-4xl md:text-6xl font-extrabold text-gray-900 mb-6 tracking-tight">
-          seo 교육용 웹앱 만들기
+          seo의  수업
         </h1>
         
         {/* 간단한 설명 */}
